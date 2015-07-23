@@ -1,2 +1,3 @@
-gmailApp.controller('GmailController', ['$scope', function($scope) {
-}]);
+gmailApp.controller('gmailCtrl', function($scope) {
+  $scope.title = "Sup"
+});
