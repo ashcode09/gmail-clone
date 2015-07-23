@@ -1,0 +1,23 @@
+{
+  "name": "gmail-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleigh090990/gmail-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleigh090990/gmail-clone/issues"
+  },
+  "homepage": "https://github.com/ashleigh090990/gmail-clone#readme",
+  "devDependencies": {
+    "http-server": "^0.8.0",
+    "protractor": "^2.1.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gmail-clone",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ashleigh090990/gmail-clone",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.3",
+    "angular-mocks": "~1.4.3",
+    "angular-resource": "~1.4.3"
+  }
+}
