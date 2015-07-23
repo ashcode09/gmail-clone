@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/ashleigh090990/gmail-clone#readme",
   "devDependencies": {
-    "http-server": "^0.8.0",
+    "phantomjs": "^1.9.17",
     "protractor": "^2.1.0"
+  },
+  "dependencies": {
+    "http-server": "^0.8.0"
   }
 }
