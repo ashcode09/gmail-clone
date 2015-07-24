@@ -1,7 +1,7 @@
 Gmail Clone
 ===========
 
-Test driving a Gmail clone in javascript.
+Writing a Gmail clone in javascript.
 
 
 
