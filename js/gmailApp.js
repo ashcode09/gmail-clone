@@ -4,8 +4,7 @@ gmailApp.config(function ($routeProvider) {
   $routeProvider
   .when('/inbox', {
     templateUrl: 'views/inbox.html',
-    controller: 'gmailCtrl',
-    controllerAs: 'inbox'
+    controller: 'gmailCtrl'
   })
   .when('/inbox/email/:id', {
     templateUrl: 'views/email.html',

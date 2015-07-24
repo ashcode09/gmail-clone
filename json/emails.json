@@ -1,0 +1,14 @@
+[
+  {
+    "from": "John Doe",
+    "to": "Jane Doe",
+    "subject": "Hello dear",
+    "body": "This is the body of the email"
+  },
+  {
+    "from": "Jane Doe",
+    "to": "John Doe",
+    "subject": "Re: Hello dear",
+    "body": "Yes, thank you"
+  }
+]
